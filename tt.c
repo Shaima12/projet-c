@@ -8,7 +8,7 @@ int main() {
     strcpy(fname, template);
     int fd = mkstemp(fname);
 
-
+     printf("tst test tes ");
     return 0;
 }
 
